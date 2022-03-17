@@ -1,0 +1,10 @@
+name: WEG Marketo Form Field
+type: module
+description: 'Proporciona un nuevo tipo de campo para renderizar un formulario de Marketo'
+package: RSI
+core: 8.x
+core_version_requirement: ^8 || ^9
+version: '1.0.0'
+
+dependencies:
+  - weg_core
